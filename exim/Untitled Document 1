@@ -1,0 +1,17 @@
+navigationArea
+{
+background: url(../img/marker-1.png) no-repeat 0 7px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  
+  
+  
+  <a href="#" class="toggle">Toggle</a>
+		<div class="my1"> </div>
+    	</div>
+    	<script>
+    	$('.toggle').click(function(){
+    		$('.my1').toggle('slow');
+    	});
+    	</script>
+    
